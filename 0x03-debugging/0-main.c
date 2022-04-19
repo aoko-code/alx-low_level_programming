@@ -3,7 +3,7 @@
  *positive_or_negative-checks code
  * Return: 0
  */
-int main(void)
+int positive_or_negative()
 {
 int i;
 i = 0;
