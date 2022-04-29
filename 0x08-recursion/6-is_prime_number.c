@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- *check_prime - prime number
+ *check_prime - recursive loop
  *@n: integer
- *@i: iteratir
- *Return : return prime
+ *@i: iterator
+ *Return: return prime
  */
 int check_prime(int n, int i)
 {
