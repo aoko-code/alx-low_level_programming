@@ -1,9 +1,4 @@
 #include "main.h"
-/**
- *main - void
- *Return: zero
- */
-
 int main(void)
 
 {
